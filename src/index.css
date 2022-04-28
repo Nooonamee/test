@@ -1,0 +1,115 @@
+:root {
+  --while-color: #fff;
+  --black-color: #000;
+  --text-color: #333;
+  --primary-color: rgb(238 77 45);
+}
+
+* {
+  box-sizing: inherit;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+  line-height: 1.6rem;
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Grid responsive */
+.grid {
+  width: 1200px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.grid__full-width {
+  width: 100%;
+}
+
+.grid__row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -5px;
+  margin-right: -5px;
+}
+
+.grid__column-2 {
+  padding-left: 5px;
+  padding-right: 5px;
+  width: calc((100% / 12)*2);
+  height: fit-content;
+}
+
+.grid__column-2in {
+  padding-left: 5px;
+  padding-right: 5px;
+  width: 20%;
+  height: fit-content;
+}
+
+.grid__column-10 {
+  padding-left: 12px;
+  padding-right: 12px;
+  width: calc((100% / 12)*10);
+}
+
+/* Animation */
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+  }
+  to {
+      opacity: 1;
+  }
+}
+
+/* Modal */
+.modal {
+  z-index: 1;
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.4);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+}
+
+.modal__body {
+  height: 430px;
+  width: 400px;
+  margin: auto;
+  background-color: var(--while-color);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+/* button */
+.btn {
+  min-width: 142px;
+  height: 36px;
+  border: 0;
+  border-radius: 2px;
+  background-color: var(--while-color);
+  cursor: pointer;
+  padding: 0;
+}
+
+.btn-small {
+  min-width: 92px;
+  margin-left: 12px;
+  font-size: 14px;
+  height: 34px;
+}
+
+.btn--primary, .btn--active{
+  color: var(--while-color);
+  background-color: var(--primary-color);
+}
+
