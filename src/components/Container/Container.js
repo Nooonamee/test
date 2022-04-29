@@ -115,7 +115,7 @@ function HomeProduct() {
   return (
     <div className="home-product">
       <div className="grid__row">
-        <a href="/product-details" className="grid__column-2in">
+        <a href="/product" className="grid__column-2in">
           <div className="product-item">
             <div className="product-item__img" style={{backgroundImage: 'url("https://cf.shopee.vn/file/8d0beecb7f03d74178f122c875121126")'}}></div>
             <div className="product-item__info">
@@ -151,7 +151,7 @@ function HomeProduct() {
             </div>
           </div>
         </a>
-        <a href="/product-details" className="grid__column-2in">
+        <a href="/product" className="grid__column-2in">
           <div className="product-item">
             <div className="product-item__img" style={{backgroundImage: 'url("https://cf.shopee.vn/file/8d0beecb7f03d74178f122c875121126")'}}></div>
             <div className="product-item__info">
@@ -187,7 +187,7 @@ function HomeProduct() {
             </div>
           </div>
         </a>
-        <a href="/product-details" className="grid__column-2in">
+        <a href="/product" className="grid__column-2in">
           <div className="product-item">
             <div className="product-item__img" style={{backgroundImage: 'url("https://cf.shopee.vn/file/8d0beecb7f03d74178f122c875121126")'}}></div>
             <div className="product-item__info">
@@ -223,7 +223,7 @@ function HomeProduct() {
             </div>
           </div>
         </a>
-        <a href="/product-details" className="grid__column-2in">
+        <a href="/product" className="grid__column-2in">
           <div className="product-item">
             <div className="product-item__img" style={{backgroundImage: 'url("https://cf.shopee.vn/file/8d0beecb7f03d74178f122c875121126")'}}></div>
             <div className="product-item__info">
@@ -259,7 +259,7 @@ function HomeProduct() {
             </div>
           </div>
         </a>
-        <a href="/product-details" className="grid__column-2in">
+        <a href="/product" className="grid__column-2in">
           <div className="product-item">
             <div className="product-item__img" style={{backgroundImage: 'url("https://cf.shopee.vn/file/8d0beecb7f03d74178f122c875121126")'}}></div>
             <div className="product-item__info">
@@ -295,7 +295,7 @@ function HomeProduct() {
             </div>
           </div>
         </a>
-        <a href="/product-details" className="grid__column-2in">
+        <a href="/product" className="grid__column-2in">
           <div className="product-item">
             <div className="product-item__img" style={{backgroundImage: 'url("https://cf.shopee.vn/file/8d0beecb7f03d74178f122c875121126")'}}></div>
             <div className="product-item__info">
@@ -331,7 +331,7 @@ function HomeProduct() {
             </div>
           </div>
         </a>
-        <a href="/product-details" className="grid__column-2in">
+        <a href="/product" className="grid__column-2in">
           <div className="product-item">
             <div className="product-item__img" style={{backgroundImage: 'url("https://cf.shopee.vn/file/8d0beecb7f03d74178f122c875121126")'}}></div>
             <div className="product-item__info">
@@ -367,7 +367,7 @@ function HomeProduct() {
             </div>
           </div>
         </a>
-        <a href="/product-details" className="grid__column-2in">
+        <a href="/product" className="grid__column-2in">
           <div className="product-item">
             <div className="product-item__img" style={{backgroundImage: 'url("https://cf.shopee.vn/file/8d0beecb7f03d74178f122c875121126")'}}></div>
             <div className="product-item__info">
@@ -403,7 +403,7 @@ function HomeProduct() {
             </div>
           </div>
         </a>
-        <a href="/product-details" className="grid__column-2in">
+        <a href="/product" className="grid__column-2in">
           <div className="product-item">
             <div className="product-item__img" style={{backgroundImage: 'url("https://cf.shopee.vn/file/8d0beecb7f03d74178f122c875121126")'}}></div>
             <div className="product-item__info">
@@ -439,7 +439,7 @@ function HomeProduct() {
             </div>
           </div>
         </a>
-        <a href="/product-details" className="grid__column-2in">
+        <a href="/product" className="grid__column-2in">
           <div className="product-item">
             <div className="product-item__img" style={{backgroundImage: 'url("https://cf.shopee.vn/file/8d0beecb7f03d74178f122c875121126")'}}></div>
             <div className="product-item__info">
@@ -475,7 +475,7 @@ function HomeProduct() {
             </div>
           </div>
         </a>
-        <a href="/product-details" className="grid__column-2in">
+        <a href="/product" className="grid__column-2in">
           <div className="product-item">
             <div className="product-item__img" style={{backgroundImage: 'url("https://cf.shopee.vn/file/8d0beecb7f03d74178f122c875121126")'}}></div>
             <div className="product-item__info">
@@ -511,7 +511,7 @@ function HomeProduct() {
             </div>
           </div>
         </a>
-        <a href="/product-details" className="grid__column-2in">
+        <a href="/product" className="grid__column-2in">
           <div className="product-item">
             <div className="product-item__img" style={{backgroundImage: 'url("https://cf.shopee.vn/file/8d0beecb7f03d74178f122c875121126")'}}></div>
             <div className="product-item__info">
@@ -547,7 +547,7 @@ function HomeProduct() {
             </div>
           </div>
         </a>
-        <a href="/product-details" className="grid__column-2in">
+        <a href="/product" className="grid__column-2in">
           <div className="product-item">
             <div className="product-item__img" style={{backgroundImage: 'url("https://cf.shopee.vn/file/8d0beecb7f03d74178f122c875121126")'}}></div>
             <div className="product-item__info">
@@ -583,7 +583,7 @@ function HomeProduct() {
             </div>
           </div>
         </a>
-        <a href="/product-details" className="grid__column-2in">
+        <a href="/product" className="grid__column-2in">
           <div className="product-item">
             <div className="product-item__img" style={{backgroundImage: 'url("https://cf.shopee.vn/file/8d0beecb7f03d74178f122c875121126")'}}></div>
             <div className="product-item__info">
